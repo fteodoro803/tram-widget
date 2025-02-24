@@ -15,6 +15,8 @@ Copy-paste these commands to
      - ```git update-index --assume-unchanged flutter_project/android/secrets.properties```
   3. [Build JSON Serializable files](https://docs.flutter.dev/data-and-backend/serialization/json#running-the-code-generation-utility)
      - ```dart run build_runner build --delete-conflicting-outputs```
+  4. If developing for IOS
+     - ```pod init```
 
 
 ### Dependencies
