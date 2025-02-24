@@ -4,7 +4,7 @@
 <dict>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.fteodoro.melbournePTWidget</string>
+		<string>group.fteodoro803.melbournePTWidget</string>
 	</array>
 </dict>
 </plist>
